@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Open+Sans&display=swap');
+ 
+ 
  *{
     margin:0;
     padding:0;
@@ -6,7 +9,7 @@
 
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Open Sans', sans-serif;
     font-weight: 500;
     color: black;
 }
@@ -39,6 +42,7 @@ body{
     padding: 14px 20px;
     text-decoration: none;
     font-size: 17px;
+    font-weight: bold;
    
 }
 
@@ -86,8 +90,10 @@ body{
 
 .classes-header{
     text-align: center;
+    text-transform: uppercase;
     padding-bottom: 20px;
 }
+
 
 #classes div{
     color: black;
@@ -103,19 +109,45 @@ body{
 #classes{
     height: 300px;
     width: 100%;
+    margin-bottom: 10px;
 }
 
 /* contact us styling*/
 
-#contact-us{
-    background:chocolate;
-    height: 300px;
-    width: 100%;
+.lst-section{
+    background-color: green;
+    clear: both;
+    height: 200px;
 }
+
+#contact-heading{
+    text-align: center;
+    padding: 5px;
+}
+
+.contact-sect{
+    clear: both;
+    text-align: center;
+}
+
+.contact-sect > li{
+    vertical-align: top;
+    display: inline;
+}
+
+.contact-sect i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color:black;
+}
+
+
 
 /* footer styling*/
 
 footer{
+    clear: both;
     height: 150px;
 }
 
