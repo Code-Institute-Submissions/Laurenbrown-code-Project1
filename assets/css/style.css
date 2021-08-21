@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+#header{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+/* navigation styles*/
+
+.nav-view{
+    background-color: goldenrod;
+    overflow: hidden;
+}
+
+.nav-view a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+}
+
+.nav-view li{
+    list-style: none;
+    display: inline;
+}
+
+.nav-view a:hover{
+    background: black;
+    color: goldenrod;
+}
+
+.nav-view a.active{
+    background: #000814;
+    color: goldenrod;
+}
+
+/* home section styling*/
+
+#home{
+    background: red;
+    height:300px;
+    width:100%;
+}
+
+/* about section styling*/
+
+#about{
+    background: blue;
+    height: 300px;
+    width: 100%;
+}
+
+/* contact us styling*/
+
+#contact-us{
+    background:chocolate;
+    height: 300px;
+    width: 100%;
+}
+
+/* footer styling*/
+
+footer{
+    height: 150px;
+}
+
+.social-media{
+    text-align: center;
+}
+
+.social-media > li{
+    display: inline;
+}
+
+.social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color:#232b38;
+}
