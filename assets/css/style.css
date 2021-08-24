@@ -17,13 +17,7 @@ header a{
     color: black;
 }
 
-#header{
-    text-align: center;
-    letter-spacing: 4px;
-    padding: 20px;
-}
-
-#header h1{
+#header h1, #header p{
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 4px;
@@ -117,14 +111,19 @@ header a{
 
 /* classes section styling*/
 
-.classes-header{
+#classes{
+    height: 300px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#classes-header{
     text-align: center;
     text-transform: uppercase;
     margin-top: 40px;
     padding-top: 10px;
     padding-bottom: 20px;
 }
-
 
 #classes div{
     color: black;
@@ -137,11 +136,6 @@ header a{
     box-sizing: border-box;
 }
 
-#classes{
-    height: 300px;
-    width: 100%;
-    margin-bottom: 10px;
-}
 
 /* contact us styling*/
 
@@ -223,4 +217,46 @@ footer{
 .signup-button:hover {
     background-color:black;
     color: goldenrod;
+}
+
+/* Media screen styling for screens 1200px and below  */
+@media screen and (max-width:1200px){
+
+    #about{
+        height: fit-content;
+    }
+
+    #about p{
+        text-align: center;
+        width: 80%;
+        font-weight: 500;
+        line-height: 25px;
+        padding-top:10px;
+        padding-bottom: 10px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+    
+    
+    #classes-header{
+        text-align: center;
+        text-transform: uppercase;
+        margin-top: 40px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    
+    #classes div{
+        color:black;
+        width:100%;
+        height: 150px;
+        float: left;
+        text-align: center;
+        padding: 0;
+    }
+
+    .class-details h2, .class-details h3{
+        margin: 0;
+        padding: 0;
+    }
 }
