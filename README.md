@@ -8,7 +8,7 @@ Is a simple website for it users to get a general idea of the type of classes ru
 Header, navigation bar hero image
 
 i decided to have a center aligned header and a 
-![githubimage](/asset/image/screeshot-header-nav-heroimage.png)
+![sreenshot](/workspace/Project1/asset/image/screeshot-header-nav-heroimage.png)
 
 
 
