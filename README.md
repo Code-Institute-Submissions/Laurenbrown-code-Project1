@@ -52,11 +52,11 @@ The information on the page has been center and next to each heading the a icon 
 ## Bugs and Fixes 
 - After running my HTML through the validator i found that i had one repeated end tag which a removed. 
 
-## Deplyment
+## Deployment
 
 ## Credits
-- as i mentioned previously in this file i have taken some style ideas from the Love Running project i completed before building this website. 
+- As i mentioned previously in this file i have taken some style ideas from the Love Running project i completed before building this website. 
 
-- The icons used in the footer of the website and on the Contact Us page can be found on the font awesom website
+- The icons used in the footer of the website and on the Contact Us page can be found on the font awesom website https://fontawesome.com/
 
 - The image i used for hero image was found on https://unsplash.com/ 
