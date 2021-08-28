@@ -47,12 +47,30 @@ The information on the page has been center and next to each heading the a icon 
 
 ![image7](assets/images/footer-ss.png)
 
-## Testing
+## Future Ideas,
+- If had more time I would like to have had an extra page with guidance on how meditation can be practised at home and on the go and a blog page.  
 
-## Bugs and Fixes 
-- After running my HTML through the validator i found that i had one repeated end tag which a removed. 
+## Testing
+- After writting the HTML code and most of the CCS code I decide to test the website and see how it would function on different screen sizes and added in media screen styling,
+during this process i took the time to focus on the sections of the website that contained the most text, i felt that it's important for the body of information to be accessesable no matter the screen size, I chose to write code for screens 1200px and below and 950px and below snd use the knowledge i had gained during the Love Running project. 
+- I used the dev tools on google chrome to help me through the process of changing the margin,padding and width sizes. 
+- The section that needed the most attention were the About section and Classes section on the front page and the input field on the Sign Up page needed to be resized when reduced down the 950px and below. 
+
+### Validator Testing
+* After running my HTML code through the validator it higlighted to me that I had incorrectly used a `<li>` element. I was using it as a directchild of the `<nav>` element, iquickly fixed this by placing a `<ul>` abd it's closing tag inbetween the `<nav>` and the `<li>`.
+
+* The HTML validator also higlited my incorrect use of a `<span>` element, i had placed a blcok element `<h3>` within a `<span>`. To fix this I changed the `<span>` to a `<div>` 
+
+* No errors were found when i put my CSS code through the CSS code validator. 
+
+* The validators i used were https://validator.w3.org/nu/ and https://jigsaw.w3.org/css-validator/ 
+
+### Unfixed Bugs
+- There are some unfixed parts of the website for e.g the header on the Contact Us page is in a slightly of centered position in comparison with the rest of the website, i struggled to fiind out wht was causing the problem, as the code used on the Contact Us page is the same as the code used across the website. 
 
 ## Deployment
+
+- This site was deployed using github pages. please find a live link the webisite below.  
 
 ## Credits
 - As i mentioned previously in this file i have taken some style ideas from the Love Running project i completed before building this website. 
