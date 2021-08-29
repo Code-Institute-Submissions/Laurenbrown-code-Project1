@@ -43,7 +43,7 @@ The information on the page has been center and next to each heading the a icon 
 ![image6](assets/images/signup-nss.png)
 
 ## Thank you page
-- After the user sibmits their information in the sing up form, they are presented with a thank you message
+- After the user submits their information into the sign up form, they are presented with a thank you message
 
 ![image](assets/images/thankyoupage-ss.png)
 
@@ -53,7 +53,7 @@ The information on the page has been center and next to each heading the a icon 
 ![image7](assets/images/footer-ss.png)
 
 ## Future Ideas,
-- If had more time I would like to have had an extra page with guidance on how meditation can be practised at home and on the go and a blog page.  
+- If had more time I would like to have had an extra page with guidance on how meditation can be practised at home and on the go and a blog page.i would also like to include an events page.  
 
 ## Testing
 - After writting the HTML code and most of the CCS code I decide to test the website and see how it would function on different screen sizes and added in media screen styling,
