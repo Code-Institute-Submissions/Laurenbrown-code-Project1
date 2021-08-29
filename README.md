@@ -60,6 +60,7 @@ The information on the page has been center and next to each heading the a icon 
 during this process i took the time to focus on the sections of the website that contained the most text, i felt that it's important for the body of information to be accessesable no matter the screen size, I chose to write code for screens 1200px and below and 950px and below snd use the knowledge i had gained during the Love Running project. 
 - I used the dev tools on google chrome to help me through the process of changing the margin,padding and width sizes. 
 - The section that needed the most attention were the About section and Classes section on the front page and the input field on the Sign Up page needed to be resized when reduced down the 950px and below. 
+- i also had to resize my background images to kae sure they fit well onto the website
 
 ### Validator Testing
 * After running my HTML code through the validator it higlighted to me that I had incorrectly used a `<li>` element. I was using it as a directchild of the `<nav>` element, iquickly fixed this by placing a `<ul>` abd it's closing tag inbetween the `<nav>` and the `<li>`.
