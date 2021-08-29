@@ -220,11 +220,12 @@ footer{
 #thankyou{
     height: 450px;
     text-align: center;
-    background-image: url(../images/image-1.jpg);
+    background-image: url(../images/image-5.jpg);
 }
 
 #thanks{
     padding: 20px;
+    padding-top: 30px;
 }
 
 /* Media screen styling for screens 1200px and below  */
