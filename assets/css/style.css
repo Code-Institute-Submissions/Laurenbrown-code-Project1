@@ -140,10 +140,11 @@ header a{
 #section{
     height: 450px;
     text-align: center;
+    background-image: url(../images/contactbg.jpg);
 }
 
 #contact-header{
-    margin-top: 20px;
+    padding-top: 20px;
 }
 
 /* footer styling*/

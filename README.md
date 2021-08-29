@@ -40,7 +40,7 @@ The information on the page has been center and next to each heading the a icon 
 ## Sign Up page
 - This page is where users sign up to the Meditation Club membership and receive the meditation club news letter and daily affirmations and early bird notification when guest teachers are due to vist the club. Its a free memebrship so the only information user are requires to provide is their first name, last name and email address. 
 
-![image6](assets/images/signup-ss.png)
+![image6](assets/images/signup-nss.png)
 
 ## Footer 
 - The footer contains links to various different social media pages, each represented by the social media icon. when the user sellects an icon the social media homepage will open in a new tab. 
@@ -64,10 +64,7 @@ during this process i took the time to focus on the sections of the website that
 * No errors were found when i put my CSS code through the CSS code validator. 
 
 * The validators i used were https://validator.w3.org/nu/ and https://jigsaw.w3.org/css-validator/ 
-
-### Unfixed Bugs
-- There are some unfixed parts of the website for e.g the header on the Contact Us page is in a slightly of centered position in comparison with the rest of the website, i struggled to fiind out wht was causing the problem, as the code used on the Contact Us page is the same as the code used across the website. 
-
+ 
 ## Deployment
 
 - This site was deployed using github pages. please find a live link the webisite below.  
