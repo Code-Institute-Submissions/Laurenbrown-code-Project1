@@ -141,6 +141,8 @@ header a{
     height: 500px;
     text-align: center;
     background-image: url(../images/contactbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #contact-header{
@@ -222,6 +224,8 @@ footer{
     height: 450px;
     text-align: center;
     background-image: url(../images/image-5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #thanks{
