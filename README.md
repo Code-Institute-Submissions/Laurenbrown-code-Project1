@@ -35,12 +35,17 @@ the navigation bar looks the same on each page giving the website a uniform look
 - This page contains details on how to contact the Meditation Club and where to find the them in central London. 
 The information on the page has been center and next to each heading the a icon representing each method of contact.  
 
-![image5](assets/images/contactus-ss.png)
+![image5](assets/images/contact-page-ss.png)
 
 ## Sign Up page
 - This page is where users sign up to the Meditation Club membership and receive the meditation club news letter and daily affirmations and early bird notification when guest teachers are due to vist the club. Its a free memebrship so the only information user are requires to provide is their first name, last name and email address. 
 
 ![image6](assets/images/signup-nss.png)
+
+## Thank you page
+- After the user sibmits their information in the sing up form, they are presented with a thank you message
+
+![image](assets/images/thankyoupage-ss.png)
 
 ## Footer 
 - The footer contains links to various different social media pages, each represented by the social media icon. when the user sellects an icon the social media homepage will open in a new tab. 
