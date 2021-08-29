@@ -1,11 +1,11 @@
 # Project 1 - Meditation Club
 
-Meditation Club is a website designed to offer its users basic information about what the Meditation Club has to offer it's visitors, the website includes information on what kind of meditation classes our offer, when and where the classes are run, how to contact the Meditation Club and information about the free membership scheme on offer. 
+Meditation Club is a website designed to offer its users basic information about what the Meditation Club has to offer it's visitors and members, the website includes information on what kind of meditation classes our offer, when and where the classes are run, how to contact the Meditation Club and information about the free membership scheme on offer. 
 
 ## Features
 
 ### Logo
-- i decided to centre the logo on the website this design is consistant throughout the website. 
+- I decided to centre the logo on the website this design is consistant throughout the website. 
 
 ### Navigation Bar
 - The navigation bar includes links to the About and Classes section of the homepage, the Contact Us page and the Sign Up page. 
@@ -17,9 +17,9 @@ the navigation bar looks the same on each page giving the website a uniform look
 
 ## Hero image and About section
 
-- On the Front page of the website you will find the hero image and two sections of information. The hero image is of a singing bowl and animation has been applied to this image to catch the eye of the user. I took the idea to use a hero image with animation from the Love Running Project i completed during the one of the modules in the code institute course, i thought it was a good way to add an extra layer of interest to the website. 
+- On the front page of the website you will find the hero image and two sections of information. The hero image is of a singing bowl and animation has been applied to this image to catch the eye of the user. I took the idea to use a hero image with animation from the Love Running Project i completed during the one of the modules in the code institute course, i thought it was a great way to add an extra layer of interest to the website. 
 
-- The first section of information is the About section, here the user with find out more about the Meditation Club there is also some information on a few of the benefits of meditation and there is information about the Meditation Club Membership scheme and there is also a link to the sign up page.  
+- The first section of information is the About section, here the user with find out more about the Meditation Club, there is also some information on a few of the benefits of meditation and there is information about the Meditation Club Membership scheme and there is also a link to the sign up page.  
 
 ![image3](assets/images/heroabout-ss.png)
 
@@ -33,17 +33,17 @@ the navigation bar looks the same on each page giving the website a uniform look
 ## Contact Us page
 
 - This page contains details on how to contact the Meditation Club and where to find the them in central London. 
-The information on the page has been center and next to each heading the a icon representing each method of contact.  
+The information on the page has been centered and next to each heading the a icon representing each method of contact.  
 
 ![image5](assets/images/contact-page-ss.png)
 
 ## Sign Up page
-- This page is where users sign up to the Meditation Club membership and receive the meditation club news letter and daily affirmations and early bird notification when guest teachers are due to vist the club. Its a free memebrship so the only information user are requires to provide is their first name, last name and email address. 
+- This page is where users sign up to the Meditation Club membership scheme. When someone signs up they will receive the Meditation Club news letter and daily affirmations and early bird notifications when guest teachers are due to vist the club. Its a free memebrship so the only information a user is required to provide is their first name, last name and email address. 
 
 ![image6](assets/images/signup-nss.png)
 
 ## Thank you page
-- After the user submits their information into the sign up form, they are presented with a thank you message
+- After the user submits their information into the sign up form they are presented with a thank you message. 
 
 ![image](assets/images/thankyoupage-ss.png)
 
@@ -52,28 +52,32 @@ The information on the page has been center and next to each heading the a icon 
 
 ![image7](assets/images/footer-ss.png)
 
-## Future Ideas,
-- If had more time I would like to have had an extra page with guidance on how meditation can be practised at home and on the go and a blog page.i would also like to include an events page.  
+## Future Ideas
+- In the furture i would like to add an extra page with guidance on how meditation can be practised at home and on the go.
+- A blog page, written by experienced mediation teachers telling us about their insight and experiencing.
+- I think an events page would also be great to include on this website in the future. 
 
 ## Testing
-- After writting the HTML code and most of the CCS code I decide to test the website and see how it would function on different screen sizes and added in media screen styling,
-during this process i took the time to focus on the sections of the website that contained the most text, i felt that it's important for the body of information to be accessesable no matter the screen size, I chose to write code for screens 1200px and below and 950px and below snd use the knowledge i had gained during the Love Running project. 
-- I used the dev tools on google chrome to help me through the process of changing the margin,padding and width sizes. 
-- The section that needed the most attention were the About section and Classes section on the front page and the input field on the Sign Up page needed to be resized when reduced down the 950px and below. 
+- After writting the HTML code and most of the CCS code I decided to test the website and see how it would function on different screen sizes and added in media screen styling,
+during this process i took the time to focus on the sections of the website that contained the most text. I felt that it would be important for the information on the site to be accessesable ondiffrent screens, I chose to write code for screens 1200px and below and 950px and below and use the knowledge i had gained during the Love Running project.
+- I also resized the website background images to make them look better and get rid of blurred images.  
+- I used the dev tools on google chrome to help me through the process of changing the margin,padding and width sizes, as I could see the changes take place as soon as I made them. 
 
 
 ### Validator Testing
-* After running my HTML code through the validator it higlighted to me that I had incorrectly used a `<li>` element. I was using it as a directchild of the `<nav>` element, iquickly fixed this by placing a `<ul>` abd it's closing tag inbetween the `<nav>` and the `<li>`.
+* After running my HTML code through the validator it highlighted to me that I had incorrectly used a `<li>` element. I was using it as a direct child of the `<nav>` element, I quickly fixed this by placing a `<ul>` and it's closing tag inbetween the `<nav>` and the `<li>`.
 
-* The HTML validator also higlited my incorrect use of a `<span>` element, i had placed a blcok element `<h3>` within a `<span>`. To fix this I changed the `<span>` to a `<div>` 
+* The HTML validator also higlited my incorrect use of a `<span>` element, I had placed a block element `<h3>` within a `<span>`. To fix this I changed the `<span>` to a `<div>` 
 
 * No errors were found when i put my CSS code through the CSS code validator. 
 
-* The validators i used were https://validator.w3.org/nu/ and https://jigsaw.w3.org/css-validator/ 
+* The validators I used were https://validator.w3.org/nu/ and https://jigsaw.w3.org/css-validator/ 
  
 ## Deployment
 
 - This site was deployed using github pages. please find a live link the webisite below.  
+
+https://laurenbrown-code.github.io/Project1/ 
 
 ## Credits
 - As I mentioned previously in this file the style of some of my section throughout my project have been inspired by the Love Running project:- https://code-institute-org.github.io/love-running-2.0/index.html
